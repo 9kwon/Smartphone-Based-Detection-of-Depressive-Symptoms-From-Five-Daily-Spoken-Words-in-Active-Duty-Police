@@ -1,7 +1,7 @@
-# ultra-brief-depression-speech-release
+# Smartphone-Based Detection of Depressive Symptoms From Five Daily Spoken Words in Active-Duty Police Officers: Development and Internal Validation Study
 
 Public release for the manuscript:
-**An Ultra-Brief Acoustic–Lexical Framework for Detecting Depressive Symptoms From Five Daily Spoken Words in Active-Duty Police Officers**
+**Smartphone-Based Detection of Depressive Symptoms From Five Daily Spoken Words in Active-Duty Police Officers: Development and Internal Validation Study**
 
 This repository contains a **public, manuscript-focused release** of the analysis pipeline.
 It is organized to support reproduction of the main reported analyses while avoiding release of the full curated Korean lexical resource.
