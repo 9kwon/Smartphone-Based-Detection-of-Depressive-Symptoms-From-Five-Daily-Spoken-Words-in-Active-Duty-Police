@@ -104,6 +104,3 @@ python src/main_analysis.py   --diary-csv outputs/diary_features.csv   --vocab-c
 The default execution path in `src/main_analysis.py` is intentionally limited to the manuscript core analyses.
 Exploratory or defense-oriented analyses are not part of the default public release path.
 
-## Citation
-
-If you use this repository, please cite the associated manuscript.
